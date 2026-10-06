@@ -1,37 +1,58 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                         SOMESH GITHUB PROFILE                         -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- ========================================================= -->
+<!--                    SOMESH PROFILE README                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- Responsive Dark Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24" alt="SOMESH BEHERA banner"/>
-  </picture>
+<!-- ====================== CUSTOM BANNER ===================== -->
 
-  <br/>
+<img
+  src="./header-dark.png"
+  width="100%"
+  alt="Somesh"
+/>
 
-  <h1>Hey there, I'm SOMESH 👋</h1>
+<br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Projects+That+Turn+Ideas+Into+Reality;Exploring+AI%2C+Data+Science+%26+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
-      alt="Typing SVG"
-    />
-  </a>
+<!-- ========================= TITLE =========================== -->
 
-  <br/><br/>
+<h1>Hey there, I'm SOMESH 👋</h1>
 
-  <!-- Purple GitHub Badges -->
-  <a href="https://github.com/SomeshBehera">
-    <img src="https://img.shields.io/github/followers/SomeshBehera?label=Followers&style=for-the-badge&color=EF93C4&labelColor=171717" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/SomeshBehera?tab=repositories">
-    <img src="https://img.shields.io/github/stars/SomeshBehera?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=171717" alt="GitHub Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SomeshBehera&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=780&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Ideas+Into+Real+Projects;Exploring+AI+%7C+Data+Science+%7C+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
+    alt="Typing SVG"
+/>
+
+<br/><br/>
+
+<!-- ========================= BADGES ========================= -->
+
+<a href="https://github.com/Someshx98">
+  <img
+    src="https://img.shields.io/github/followers/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=EF93C4&labelColor=161B22"
+    alt="GitHub Followers"
+/>
+</a>
+
+<a href="https://github.com/Someshx98?tab=repositories">
+  <img
+    src="https://img.shields.io/github/stars/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF69B4&labelColor=161B22"
+    alt="GitHub Stars"
+/>
+</a>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Someshx98&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-EF93C4?style=for-the-badge&labelColor=161B22"
+  alt="Building and Learning"
+/>
 
 </div>
 
@@ -39,25 +60,31 @@
 
 ---
 
+<!-- ========================================================= -->
+<!--                        ABOUT ME                            -->
+<!-- ========================================================= -->
+
 ## 🌌 About Me
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
+
 <td width="65%" valign="top">
 
 ### 👨‍💻 Who am I?
 
-I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turning ideas into practical, interactive software.
+I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys transforming ideas into practical software and exploring the technologies behind intelligent systems.
 
 - 🎓 **B.Tech CSE Student**
 - 💻 Passionate about **Programming & Software Development**
-- 🧠 Exploring **AI, Machine Learning & Generative AI**
-- 📊 Interested in **Data Science & Data Analytics**
+- 🧠 Exploring **Artificial Intelligence & Machine Learning**
+- 🤖 Interested in **Generative AI & AI Engineering**
+- 📊 Exploring **Data Science & Data Analytics**
 - ⚡ Practicing **Data Structures & Algorithms in C++**
 - 🌐 Building modern **Web Applications**
-- 🛠️ Love creating **innovative academic & personal projects**
-- 🚀 Always experimenting with new technologies
-- 🎯 Focused on becoming a strong **AI / Software Engineer**
+- 🛠️ Creating innovative **academic & personal projects**
+- 🚀 Constantly experimenting with new technologies
+- 🎯 Working toward becoming a strong **AI / Software Engineer**
 
 <br/>
 
@@ -69,18 +96,26 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="300"
-  alt="Coding animation"
+  width="280"
+  alt="Coding"
 />
 
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EF93C4?style=for-the-badge&labelColor=171717"
-  alt="Status"
+  src="https://img.shields.io/badge/CODE-BUILD-FF69B4?style=for-the-badge&labelColor=161B22"
+  alt="Code Build"
+/>
+
+<br/>
+
+<img
+  src="https://img.shields.io/badge/LEARN-INNOVATE-EF93C4?style=for-the-badge&labelColor=161B22"
+  alt="Learn Innovate"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -88,48 +123,49 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ---
 
+<!-- ========================================================= -->
+<!--                       TECH STACK                           -->
+<!-- ========================================================= -->
+
 ## ⚡ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming
 
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
-</a>
-<a href="https://isocpp.org/">
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
-</a>
-<a href="https://www.javascript.com/">
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
-</a>
+<img
+  src="https://skillicons.dev/icons?i=python,cpp,javascript"
+  alt="Programming Languages"
+/>
 
 <br/><br/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,django" alt="Web Development Skills"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,django"
+  alt="Web Development"
+/>
 
 <br/><br/>
 
 ### 📊 Data Science & Visualization
 
-<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
-
-<br/>
-
 <img
   src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
   alt="Pandas"
 />
+
 <img
   src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
   alt="NumPy"
 />
+
 <img
   src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
   alt="Matplotlib"
 />
+
 <img
   src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"
   alt="Seaborn"
@@ -137,9 +173,12 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <br/><br/>
 
-### 🧰 Tools & Technologies
+### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux" alt="Tools and Technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux"
+  alt="Development Tools"
+/>
 
 </div>
 
@@ -147,33 +186,51 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ---
 
-## 📈 GitHub Analytics
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SomeshBehera&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
-  height="180"
-  alt="GitHub Statistics"
-/>
+<a href="https://github.com/Someshx98">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshBehera&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
-  height="180"
-  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api?username=Someshx98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
+  width="48%"
+  alt="Somesh GitHub Statistics"
 />
+
+</a>
+
+<a href="https://github.com/Someshx98">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshx98&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
+  width="48%"
+  alt="Most Used Languages"
+/>
+
+</a>
 
 </div>
 
 <br/>
 
-### 🔥 Contribution Streak
+---
+
+<!-- ========================================================= -->
+<!--                     CONTRIBUTION STREAK                    -->
+<!-- ========================================================= -->
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=SomeshBehera&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"
-  width="80%"
+  src="https://streak-stats.demolab.com?user=Someshx98&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"
+  width="82%"
   alt="GitHub Contribution Streak"
 />
 
@@ -181,14 +238,27 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <br/>
 
-### 📊 Contribution Activity
+---
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION CALENDAR                     -->
+<!-- ========================================================= -->
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SomeshBehera&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Somesh's%20Contribution%20Graph"
+  src="https://ghchart.rshah.org/EF93C4/Someshx98"
   width="95%"
-  alt="GitHub Activity Graph"
+  alt="GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Consistency-Building%20Every%20Day-FF69B4?style=for-the-badge&labelColor=161B22"
+  alt="Consistency"
 />
 
 </div>
@@ -196,67 +266,159 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                      -->
+<!-- ========================================================= -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- GitHub Action:
-     This section is automatically updated by the
-     snk GitHub Action.
+<!--
+==============================================================
+IMPORTANT:
+The snake is generated by:
+
+.github/workflows/snake.yml
+
+Your repository structure should be:
+
+Someshx98/
+│
+├── .github/
+│   └── workflows/
+│       └── snake.yml
+│
+├── README.md
+└── header-dark.png
+
+The GitHub Action should publish the generated SVG files
+to the "output" branch.
+
+==============================================================
 -->
 
 <img
-  src="https://raw.githubusercontent.com/SomeshBehera/SomeshBehera/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/Someshx98/Someshx98/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
   alt="GitHub Contribution Snake"
 />
 
-<br/>
+<br/><br/>
 
-<sub>🐍 Eating my contributions one commit at a time.</sub>
+<sub>🐍 My contributions are slowly getting eaten.</sub>
 
 </div>
 
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                            -->
+<!-- ========================================================= -->
 
 ## 🚀 What I'm Currently Exploring
 
 <div align="center">
 
-| 🧩 Area | 🔍 Focus |
-|:---:|:---|
-| 🤖 **Artificial Intelligence** | Machine Learning, Generative AI & AI Engineering |
-| 🧠 **DSA** | Problem Solving, Algorithms & Competitive Programming |
-| 📊 **Data Science** | Python, Pandas, NumPy, Matplotlib & Seaborn |
-| 🌐 **Development** | Full-Stack Web Development & REST APIs |
-| ☁️ **Cloud & Backend** | Django, Firebase, MySQL & Deployment |
-| 🛠️ **Projects** | Building useful and innovative real-world applications |
+<table width="90%">
+
+<tr>
+<td align="center" width="20%">
+<br/>
+🤖
+<br/>
+<b>AI</b>
+<br/>
+<sub>Machine Learning<br/>Generative AI</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+📊
+<br/>
+<b>Data Science</b>
+<br/>
+<sub>Python<br/>Analytics</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+🧠
+<br/>
+<b>DSA</b>
+<br/>
+<sub>C++<br/>Problem Solving</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+🌐
+<br/>
+<b>Development</b>
+<br/>
+<sub>Web Apps<br/>REST APIs</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+🛠️
+<br/>
+<b>Projects</b>
+<br/>
+<sub>Build<br/>Experiment</sub>
+<br/><br/>
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+<!--                     FEATURED MINDSET                       -->
+<!-- ========================================================= -->
 
 ## 🏆 Featured Mindset
 
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Code-Build-Learn-EF93C4?style=for-the-badge&labelColor=171717"
-  alt="Code Build Learn"
+  src="https://img.shields.io/badge/CODE-BUILD-EF93C4?style=for-the-badge&labelColor=161B22"
+  alt="Code Build"
 />
 
 <img
-  src="https://img.shields.io/badge/Think-Create-Repeat-F8BBD0?style=for-the-badge&labelColor=171717"
-  alt="Think Create Repeat"
+  src="https://img.shields.io/badge/THINK-CREATE-F8BBD0?style=for-the-badge&labelColor=161B22"
+  alt="Think Create"
 />
 
 <img
-  src="https://img.shields.io/badge/Curiosity-%E2%86%92-Innovation-FF69B4?style=for-the-badge&labelColor=171717"
+  src="https://img.shields.io/badge/LEARN-REPEAT-FF69B4?style=for-the-badge&labelColor=161B22"
+  alt="Learn Repeat"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/CURIOSITY-→%20INNOVATION-EF93C4?style=for-the-badge&labelColor=161B22"
   alt="Curiosity to Innovation"
+/>
+
+<img
+  src="https://img.shields.io/badge/IDEAS-→%20REALITY-F8BBD0?style=for-the-badge&labelColor=161B22"
+  alt="Ideas to Reality"
 />
 
 </div>
@@ -264,6 +426,62 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+<!--                      PROJECT PHILOSOPHY                     -->
+<!-- ========================================================= -->
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+<table width="85%">
+
+<tr>
+<td align="center">
+
+### 🧠 Learn
+
+Understand the technology before blindly using it.
+
+</td>
+
+<td align="center">
+
+### 🛠️ Build
+
+Turn concepts into working projects.
+
+</td>
+
+<td align="center">
+
+### 🔬 Experiment
+
+Try unusual ideas and discover what works.
+
+</td>
+
+<td align="center">
+
+### 🚀 Improve
+
+Refactor, optimize and keep moving forward.
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================================================= -->
+<!--                        CONNECT                             -->
+<!-- ========================================================= -->
 
 ## 🤝 Let's Connect
 
@@ -271,44 +489,71 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <a href="https://www.linkedin.com/in/somesh-chandra-behera-918242315/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Somesh%20Chandra%20Behera-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717"
+    src="https://img.shields.io/badge/LinkedIn-Somesh%20Chandra%20Behera-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22"
     alt="LinkedIn"
-  />
+/>
 </a>
 
 <a href="https://x.com/Somesh0908">
   <img
-    src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=171717"
+    src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22"
     alt="X"
-  />
+/>
 </a>
 
 <a href="https://www.instagram.com/the.someshbehera/">
   <img
-    src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=171717"
+    src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B22"
     alt="Instagram"
-  />
+/>
 </a>
 
 <a href="mailto:someshbehera0908@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717"
+    src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"
     alt="Email"
-  />
+/>
 </a>
 
 </div>
 
 <br/><br/>
 
+---
+
 <div align="center">
 
 ### 💜 Thanks for stopping by!
 
+<sub>
+Explore my repositories, follow my journey, and let's build something interesting.
+</sub>
+
+<br/><br/>
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling&color=gradient&customColorList=12,14,20,24"
+  src="https://img.shields.io/badge/KEEP-BUILDING-EF93C4?style=for-the-badge&labelColor=161B22"
+  alt="Keep Building"
+/>
+
+<img
+  src="https://img.shields.io/badge/KEEP-LEARNING-F8BBD0?style=for-the-badge&labelColor=161B22"
+  alt="Keep Learning"
+/>
+
+<img
+  src="https://img.shields.io/badge/KEEP-GROWING-FF69B4?style=for-the-badge&labelColor=161B22"
+  alt="Keep Growing"
+/>
+
+<br/><br/>
+
+<!-- ======================= FOOTER =========================== -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SOMESH%20BEHERA&fontSize=30&fontColor=FFFFFF&fontAlignY=65&animation=twinkling&color=gradient&customColorList=12,14,20,24"
   width="100%"
-  alt="Footer"
+  alt="Purple Waving Footer"
 />
 
 </div>
