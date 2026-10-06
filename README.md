@@ -1,41 +1,314 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Somesh Behera</h1>
-<h3 align="center">A passionate App Developer and AI/ML Engineer from India</h3>
-<img align="right" alt="Coding" width = "400" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndubnF5eTB0YzlveGJub2cwenJ2bTY5anhraHdqbmtrODFxN2hvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!--                         SOMESH GITHUB PROFILE                         -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=someshx98&label=Profile%20views&color=0e75b6&style=flat" alt="someshx98" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=someshx98" alt="someshx98" /></a> </p>
+  <!-- Responsive Dark Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24" alt="SOMESH BEHERA banner"/>
+  </picture>
 
-<p align="left"> <a href="https://twitter.com/somesh0908" target="blank"><img src="https://img.shields.io/twitter/follow/somesh0908?logo=twitter&style=for-the-badge" alt="somesh0908" /></a> </p>
+  <br/>
 
-- 🔭 I’m currently working on **Daily Life Application**
+  <h1>Hey there, I'm SOMESH 👋</h1>
 
-- 🌱 I’m currently learning **AI/ML**
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Projects+That+Turn+Ideas+Into+Reality;Exploring+AI%2C+Data+Science+%26+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
 
-- 👯 I’m looking to collaborate on **Daily Life Application**
+  <br/><br/>
 
-- 🤝 I’m looking for help with **Backend**
+  <!-- Purple GitHub Badges -->
+  <a href="https://github.com/SomeshBehera">
+    <img src="https://img.shields.io/github/followers/SomeshBehera?label=Followers&style=for-the-badge&color=EF93C4&labelColor=171717" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/SomeshBehera?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SomeshBehera?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=171717" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SomeshBehera&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-- 💬 Ask me about **Python, CPP, C, Flutter, HTML, CSS, JS**
+</div>
 
-- 📫 How to reach me **someshbehera0908@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think I can do it**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/somesh0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somesh0908" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somesh chandra behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somesh chandra behera" height="30" width="40" /></a>
-<a href="https://instagram.com/the.someshbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.someshbehera" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/somesh chandra behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somesh chandra behera" height="30" width="40" /></a>
-</p>
+## 🌌 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<table align="center" width="90%">
+<tr>
+<td width="65%" valign="top">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=someshx98&show_icons=true&locale=en&layout=compact" alt="someshx98" /></p>
+### 👨‍💻 Who am I?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=someshx98&show_icons=true&locale=en" alt="someshx98" /></p>
+I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turning ideas into practical, interactive software.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someshx98&" alt="someshx98" /></p>
+- 🎓 **B.Tech CSE Student**
+- 💻 Passionate about **Programming & Software Development**
+- 🧠 Exploring **AI, Machine Learning & Generative AI**
+- 📊 Interested in **Data Science & Data Analytics**
+- ⚡ Practicing **Data Structures & Algorithms in C++**
+- 🌐 Building modern **Web Applications**
+- 🛠️ Love creating **innovative academic & personal projects**
+- 🚀 Always experimenting with new technologies
+- 🎯 Focused on becoming a strong **AI / Software Engineer**
+
+<br/>
+
+> **"Build it. Break it. Understand it. Build it better."**
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="300"
+  alt="Coding animation"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EF93C4?style=for-the-badge&labelColor=171717"
+  alt="Status"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
+</a>
+
+<br/><br/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django" alt="Web Development Skills"/>
+
+<br/><br/>
+
+### 📊 Data Science & Visualization
+
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
+
+<br/>
+
+<img
+  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+  alt="Pandas"
+/>
+<img
+  src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+  alt="NumPy"
+/>
+<img
+  src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
+  alt="Matplotlib"
+/>
+<img
+  src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"
+  alt="Seaborn"
+/>
+
+<br/><br/>
+
+### 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux" alt="Tools and Technologies"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SomeshBehera&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshBehera&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=SomeshBehera&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"
+  width="80%"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+<br/>
+
+### 📊 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SomeshBehera&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Somesh's%20Contribution%20Graph"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- GitHub Action:
+     This section is automatically updated by the
+     snk GitHub Action.
+-->
+
+<img
+  src="https://raw.githubusercontent.com/SomeshBehera/SomeshBehera/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+<br/>
+
+<sub>🐍 Eating my contributions one commit at a time.</sub>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 What I'm Currently Exploring
+
+<div align="center">
+
+| 🧩 Area | 🔍 Focus |
+|:---:|:---|
+| 🤖 **Artificial Intelligence** | Machine Learning, Generative AI & AI Engineering |
+| 🧠 **DSA** | Problem Solving, Algorithms & Competitive Programming |
+| 📊 **Data Science** | Python, Pandas, NumPy, Matplotlib & Seaborn |
+| 🌐 **Development** | Full-Stack Web Development & REST APIs |
+| ☁️ **Cloud & Backend** | Django, Firebase, MySQL & Deployment |
+| 🛠️ **Projects** | Building useful and innovative real-world applications |
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 Featured Mindset
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Code-Build-Learn-EF93C4?style=for-the-badge&labelColor=171717"
+  alt="Code Build Learn"
+/>
+
+<img
+  src="https://img.shields.io/badge/Think-Create-Repeat-F8BBD0?style=for-the-badge&labelColor=171717"
+  alt="Think Create Repeat"
+/>
+
+<img
+  src="https://img.shields.io/badge/Curiosity-%E2%86%92-Innovation-FF69B4?style=for-the-badge&labelColor=171717"
+  alt="Curiosity to Innovation"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/somesh-chandra-behera-918242315/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Somesh%20Chandra%20Behera-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://x.com/Somesh0908">
+  <img
+    src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=171717"
+    alt="X"
+  />
+</a>
+
+<a href="https://www.instagram.com/the.someshbehera/">
+  <img
+    src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=171717"
+    alt="Instagram"
+  />
+</a>
+
+<a href="mailto:someshbehera0908@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling&color=gradient&customColorList=12,14,20,24"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
