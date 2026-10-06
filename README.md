@@ -194,25 +194,19 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys trans
 
 <div align="center">
 
-<a href="https://github.com/Someshx98">
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=Someshx98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
-  width="48%"
-  alt="Somesh GitHub Statistics"
+  width="90%"
+  alt="GitHub Statistics"
 />
 
-</a>
-
-<a href="https://github.com/Someshx98">
+<br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshx98&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
-  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshx98&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
+  width="75%"
   alt="Most Used Languages"
 />
-
-</a>
 
 </div>
 
