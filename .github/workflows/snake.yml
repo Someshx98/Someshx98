@@ -5,11 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Give GitHub Actions permission to write
+# the generated Snake to the output branch.
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+
+      # Generate the contribution snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -18,7 +25,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      # Publish generated files to output branch
+      - name: Deploy Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
