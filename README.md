@@ -7,10 +7,10 @@
 <img
   src="./header-dark.png"
   width="100%"
-  alt="Somesh custom GitHub banner"
+  alt="SOMESH"
 />
 
-<br/>
+<br/><br/>
 
 <h1>Hey there, I'm SOMESH 👋</h1>
 
@@ -18,8 +18,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Projects+That+Turn+Ideas+Into+Reality;Exploring+AI%2C+Data+Science+%26+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
     alt="Typing SVG"
-  />
-</a>
+/>
 
 <br/><br/>
 
@@ -27,14 +26,14 @@
   <img
     src="https://img.shields.io/github/followers/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=EF93C4&labelColor=161B22"
     alt="GitHub Followers"
-  />
+/>
 </a>
 
 <a href="https://github.com/Someshx98?tab=repositories">
   <img
     src="https://img.shields.io/github/stars/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF69B4&labelColor=161B22"
     alt="GitHub Stars"
-  />
+/>
 </a>
 
 <img
@@ -79,15 +78,15 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="290"
-  alt="Coding animation"
+  width="280"
+  alt="Coding Animation"
 />
 
 <br/><br/>
 
 <img
   src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EF93C4?style=for-the-badge&labelColor=161B22"
-  alt="Current Status"
+  alt="Learning and Building"
 />
 
 </td>
@@ -103,11 +102,11 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <img
   src="https://skillicons.dev/icons?i=python,cpp,javascript"
-  alt="Programming Languages"
+  alt="Python C++ JavaScript"
 />
 
 <br/><br/>
@@ -116,12 +115,20 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <img
   src="https://skillicons.dev/icons?i=html,css,js,react,django"
-  alt="Web Development"
+  alt="HTML CSS JavaScript React Django"
 />
 
 <br/><br/>
 
 ### 📊 Data Science & Visualization
+
+<img
+  src="https://skillicons.dev/icons?i=python"
+  height="55"
+  alt="Python"
+/>
+
+<br/><br/>
 
 <img
   src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
@@ -149,7 +156,7 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux"
-  alt="Tools and Technologies"
+  alt="Git GitHub VS Code PyCharm Android Studio Firebase MySQL Anaconda Linux"
 />
 
 </div>
@@ -200,12 +207,10 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <div align="center">
 
-<!-- Stable GitHub contribution chart -->
-
 <img
   src="https://ghchart.rshah.org/EF93C4/Someshx98"
   width="95%"
-  alt="GitHub Contribution Chart"
+  alt="GitHub Contribution Activity"
 />
 
 <br/><br/>
@@ -224,14 +229,14 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <!--
 ==============================================================
-GITHUB CONTRIBUTION SNAKE ACTION
+                    GITHUB SNAKE ACTION
 ==============================================================
 
 Create this file:
 
 .github/workflows/snake.yml
 
-with the following workflow:
+Paste the following workflow into it:
 
 name: Generate Snake
 
@@ -245,15 +250,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Someshx98
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Deploy Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -335,48 +341,17 @@ jobs:
 
 ---
 
-## 🤝 Let's Connect
+## 💡 Current Focus
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/somesh-chandra-behera-918242315/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Somesh%20Chandra%20Behera-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://x.com/Somesh0908">
-  <img
-    src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22"
-    alt="X"
-/>
-</a>
-
-<a href="https://www.instagram.com/the.someshbehera/">
-  <img
-    src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B22"
-    alt="Instagram"
-/>
-</a>
-
-<a href="mailto:someshbehera0908@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"
-    alt="Email"
-/>
-</a>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=KEEP%20BUILDING%20%E2%80%A2%20KEEP%20LEARNING%20%E2%80%A2%20KEEP%20GROWING&fontSize=21&fontColor=FFFFFF&fontAlignY=65&animation=twinkling&color=gradient&customColorList=12,14,20,24"
-  width="100%"
-  alt="Purple waving footer"
-/>
-
-</div>
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│        🧠 Learn          💻 Build                   │
+│                                                      │
+│        📊 Analyze        🤖 Experiment              │
+│                                                      │
+│        🚀 Deploy         🔄 Improve                 │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
