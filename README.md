@@ -1,45 +1,37 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!--                         SOMESH GITHUB PROFILE                         -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                    CUSTOM PROFILE BANNER                   -->
-<!-- ========================================================= -->
+  <!-- Responsive Dark Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOMESH%20BEHERA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Data%20%7C%20AI%20%7C%20Innovation&descAlignY=60&descSize=18&animation=twinkling&color=gradient&customColorList=12,14,20,24" alt="SOMESH BEHERA banner"/>
+  </picture>
 
-<img
-  src="./header-dark.png"
-  width="100%"
-  alt="SOMESH"
-/>
+  <br/>
 
-<br/><br/>
+  <h1>Hey there, I'm SOMESH 👋</h1>
 
-<h1>Hey there, I'm SOMESH 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Projects+That+Turn+Ideas+Into+Reality;Exploring+AI%2C+Data+Science+%26+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Developer+%7C+Problem+Solver;Building+Projects+That+Turn+Ideas+Into+Reality;Exploring+AI%2C+Data+Science+%26+Generative+AI;C%2B%2B+%7C+Python+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80"
-    alt="Typing SVG"
-/>
+  <br/><br/>
 
-<br/><br/>
-
-<a href="https://github.com/Someshx98">
-  <img
-    src="https://img.shields.io/github/followers/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=EF93C4&labelColor=161B22"
-    alt="GitHub Followers"
-/>
-</a>
-
-<a href="https://github.com/Someshx98?tab=repositories">
-  <img
-    src="https://img.shields.io/github/stars/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF69B4&labelColor=161B22"
-    alt="GitHub Stars"
-/>
-</a>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Someshx98&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+  <!-- Purple GitHub Badges -->
+  <a href="https://github.com/SomeshBehera">
+    <img src="https://img.shields.io/github/followers/SomeshBehera?label=Followers&style=for-the-badge&color=EF93C4&labelColor=171717" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/SomeshBehera?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SomeshBehera?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=171717" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SomeshBehera&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -49,9 +41,8 @@
 
 ## 🌌 About Me
 
-<table align="center" width="92%">
+<table align="center" width="90%">
 <tr>
-
 <td width="65%" valign="top">
 
 ### 👨‍💻 Who am I?
@@ -64,13 +55,13 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 - 📊 Interested in **Data Science & Data Analytics**
 - ⚡ Practicing **Data Structures & Algorithms in C++**
 - 🌐 Building modern **Web Applications**
-- 🛠️ Creating innovative academic & personal projects
-- 🚀 Exploring new technologies and development tools
-- 🎯 Working toward becoming a strong **AI / Software Engineer**
+- 🛠️ Love creating **innovative academic & personal projects**
+- 🚀 Always experimenting with new technologies
+- 🎯 Focused on becoming a strong **AI / Software Engineer**
 
 <br/>
 
-> **Build it. Break it. Understand it. Build it better.**
+> **"Build it. Break it. Understand it. Build it better."**
 
 </td>
 
@@ -78,19 +69,18 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="280"
-  alt="Coding Animation"
+  width="300"
+  alt="Coding animation"
 />
 
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EF93C4?style=for-the-badge&labelColor=161B22"
-  alt="Learning and Building"
+  src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EF93C4?style=for-the-badge&labelColor=171717"
+  alt="Status"
 />
 
 </td>
-
 </tr>
 </table>
 
@@ -102,49 +92,44 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,javascript"
-  alt="Python C++ JavaScript"
-/>
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
+</a>
 
 <br/><br/>
 
 ### 🌐 Web Development
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,react,django"
-  alt="HTML CSS JavaScript React Django"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django" alt="Web Development Skills"/>
 
 <br/><br/>
 
 ### 📊 Data Science & Visualization
 
-<img
-  src="https://skillicons.dev/icons?i=python"
-  height="55"
-  alt="Python"
-/>
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>
 
-<br/><br/>
+<br/>
 
 <img
   src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
   alt="Pandas"
 />
-
 <img
   src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
   alt="NumPy"
 />
-
 <img
   src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
   alt="Matplotlib"
 />
-
 <img
   src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"
   alt="Seaborn"
@@ -154,10 +139,7 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ### 🧰 Tools & Technologies
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux"
-  alt="Git GitHub VS Code PyCharm Android Studio Firebase MySQL Anaconda Linux"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux" alt="Tools and Technologies"/>
 
 </div>
 
@@ -165,35 +147,33 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Someshx98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
-  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=SomeshBehera&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
+  height="180"
   alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshx98&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
-  width="49%"
-  alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshBehera&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0"
+  height="180"
+  alt="Top Languages"
 />
 
 </div>
 
 <br/>
 
----
-
-## 🔥 GitHub Streak
+### 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Someshx98&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"
-  width="82%"
+  src="https://streak-stats.demolab.com?user=SomeshBehera&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E"
+  width="80%"
   alt="GitHub Contribution Streak"
 />
 
@@ -201,21 +181,15 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <br/>
 
----
-
-## 📈 Contribution Activity
+### 📊 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/EF93C4/Someshx98"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SomeshBehera&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Somesh's%20Contribution%20Graph"
   width="95%"
-  alt="GitHub Contribution Activity"
+  alt="GitHub Activity Graph"
 />
-
-<br/><br/>
-
-<sub>📈 My GitHub contribution activity</sub>
 
 </div>
 
@@ -227,57 +201,38 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <div align="center">
 
-<!--
-==============================================================
-                    GITHUB SNAKE ACTION
-==============================================================
-
-Create this file:
-
-.github/workflows/snake.yml
-
-Paste the following workflow into it:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Someshx98
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy Snake
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-
-==============================================================
+<!-- GitHub Action:
+     This section is automatically updated by the
+     snk GitHub Action.
 -->
 
 <img
-  src="https://raw.githubusercontent.com/Someshx98/Someshx98/output/github-contribution-grid-snake-dark.svg"
-  width="95%"
+  src="https://raw.githubusercontent.com/SomeshBehera/SomeshBehera/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
 />
 
-<br/><br/>
+<br/>
 
-<sub>🐍 Contributions in motion.</sub>
+<sub>🐍 Eating my contributions one commit at a time.</sub>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 What I'm Currently Exploring
+
+<div align="center">
+
+| 🧩 Area | 🔍 Focus |
+|:---:|:---|
+| 🤖 **Artificial Intelligence** | Machine Learning, Generative AI & AI Engineering |
+| 🧠 **DSA** | Problem Solving, Algorithms & Competitive Programming |
+| 📊 **Data Science** | Python, Pandas, NumPy, Matplotlib & Seaborn |
+| 🌐 **Development** | Full-Stack Web Development & REST APIs |
+| ☁️ **Cloud & Backend** | Django, Firebase, MySQL & Deployment |
+| 🛠️ **Projects** | Building useful and innovative real-world applications |
 
 </div>
 
@@ -290,68 +245,70 @@ jobs:
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Code-Build-EF93C4?style=for-the-badge&labelColor=161B22"
-  alt="Code Build"
+  src="https://img.shields.io/badge/Code-Build-Learn-EF93C4?style=for-the-badge&labelColor=171717"
+  alt="Code Build Learn"
 />
 
 <img
-  src="https://img.shields.io/badge/Think-Create-F8BBD0?style=for-the-badge&labelColor=161B22"
-  alt="Think Create"
+  src="https://img.shields.io/badge/Think-Create-Repeat-F8BBD0?style=for-the-badge&labelColor=171717"
+  alt="Think Create Repeat"
 />
 
 <img
-  src="https://img.shields.io/badge/Learn-Repeat-FF69B4?style=for-the-badge&labelColor=161B22"
-  alt="Learn Repeat"
+  src="https://img.shields.io/badge/Curiosity-%E2%86%92-Innovation-FF69B4?style=for-the-badge&labelColor=171717"
+  alt="Curiosity to Innovation"
 />
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/somesh-chandra-behera-918242315/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Somesh%20Chandra%20Behera-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://x.com/Somesh0908">
+  <img
+    src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=171717"
+    alt="X"
+  />
+</a>
+
+<a href="https://www.instagram.com/the.someshbehera/">
+  <img
+    src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=171717"
+    alt="Instagram"
+  />
+</a>
+
+<a href="mailto:someshbehera0908@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717"
+    alt="Email"
+  />
+</a>
+
+</div>
 
 <br/><br/>
 
-<img
-  src="https://img.shields.io/badge/Curiosity-Innovation-EF93C4?style=for-the-badge&labelColor=161B22"
-  alt="Curiosity Innovation"
-/>
+<div align="center">
+
+### 💜 Thanks for stopping by!
 
 <img
-  src="https://img.shields.io/badge/Ideas-Into%20Reality-F8BBD0?style=for-the-badge&labelColor=161B22"
-  alt="Ideas Into Reality"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling&color=gradient&customColorList=12,14,20,24"
+  width="100%"
+  alt="Footer"
 />
 
 </div>
-
-<br/>
-
----
-
-## 🚀 What I'm Exploring
-
-<div align="center">
-
-| 🧩 Area | 🔍 Focus |
-|:---:|:---|
-| 🤖 **Artificial Intelligence** | Machine Learning, Generative AI & AI Engineering |
-| 🧠 **DSA** | Problem Solving, Algorithms & Competitive Programming |
-| 📊 **Data Science** | Python, Pandas, NumPy, Matplotlib & Seaborn |
-| 🌐 **Development** | Full-Stack Web Development & REST APIs |
-| ☁️ **Backend & Cloud** | Django, Firebase, MySQL & Deployment |
-| 🛠️ **Projects** | Real-world and innovative software projects |
-
-</div>
-
-<br/>
-
----
-
-## 💡 Current Focus
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│        🧠 Learn          💻 Build                   │
-│                                                      │
-│        📊 Analyze        🤖 Experiment              │
-│                                                      │
-│        🚀 Deploy         🔄 Improve                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
