@@ -52,6 +52,7 @@
 
 <table align="center" width="92%">
 <tr>
+
 <td width="65%" valign="top">
 
 ### 👨‍💻 Who am I?
@@ -90,6 +91,7 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -103,13 +105,19 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" alt="Programming Languages"/>
+<img
+  src="https://skillicons.dev/icons?i=python,cpp,javascript"
+  alt="Programming Languages"
+/>
 
 <br/><br/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,django" alt="Web Technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,django"
+  alt="Web Development"
+/>
 
 <br/><br/>
 
@@ -139,7 +147,10 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 ### 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux" alt="Tools and Technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,firebase,mysql,anaconda,linux"
+  alt="Tools and Technologies"
+/>
 
 </div>
 
@@ -189,16 +200,17 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 
 <div align="center">
 
-<!--
-  Activity graph:
-  Using the GitHub Activity Graph service with the correct username.
--->
+<!-- Stable GitHub contribution chart -->
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Someshx98&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Somesh's%20Contribution%20Activity"
-  width="96%"
-  alt="GitHub Contribution Activity Graph"
+  src="https://ghchart.rshah.org/EF93C4/Someshx98"
+  width="95%"
+  alt="GitHub Contribution Chart"
 />
+
+<br/><br/>
+
+<sub>📈 My GitHub contribution activity</sub>
 
 </div>
 
@@ -211,19 +223,44 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
 <div align="center">
 
 <!--
-  ==========================================================
-  GITHUB ACTION REQUIRED
-  ==========================================================
+==============================================================
+GITHUB CONTRIBUTION SNAKE ACTION
+==============================================================
 
-  Add the following workflow to:
+Create this file:
 
-  .github/workflows/snake.yml
+.github/workflows/snake.yml
 
-  The Action generates the SVG files inside the `output`
-  branch. After the first successful workflow run, the
-  image below will render automatically.
+with the following workflow:
 
-  ==========================================================
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Someshx98
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+
+==============================================================
 -->
 
 <img
@@ -313,21 +350,21 @@ I'm **Somesh Behera**, a Computer Science & Engineering student who enjoys turni
   <img
     src="https://img.shields.io/badge/X-@Somesh0908-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22"
     alt="X"
-  />
+/>
 </a>
 
 <a href="https://www.instagram.com/the.someshbehera/">
   <img
     src="https://img.shields.io/badge/Instagram-@the.someshbehera-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B22"
     alt="Instagram"
-  />
+/>
 </a>
 
 <a href="mailto:someshbehera0908@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-someshbehera0908%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"
     alt="Email"
-  />
+/>
 </a>
 
 </div>
