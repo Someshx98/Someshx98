@@ -43,7 +43,7 @@
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Someshx98&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=Someshx98&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge"
   alt="Profile Views"
 />
 
