@@ -43,8 +43,8 @@
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Someshx98&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge"
-  alt="Profile Views"
+  src="https://img.shields.io/badge/Profile%20Views-Visit%20GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub Profile Views"
 />
 
 <br/><br/>
