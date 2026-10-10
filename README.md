@@ -42,10 +42,8 @@
 />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Someshx98&label=PROFILE%20VIEWS&color=EF93C4&style=for-the-badge"
-  alt="Profile Views"
-/>
+![Profile Views](https://komarev.com/ghpvc/?username=Someshx98)
+
 
 <br/><br/>
 
