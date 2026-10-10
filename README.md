@@ -26,31 +26,25 @@
 
 <br/><br/>
 
-<!-- ========================= BADGES ========================= -->
+<!-- ======================== BADGES ======================== -->
+
+<div align="center">
 
 <a href="https://github.com/Someshx98">
-  <img
-    src="https://img.shields.io/github/followers/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=EF93C4&labelColor=161B22"
-    alt="GitHub Followers"
-/>
+  <img src="https://img.shields.io/github/followers/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub Followers" />
 </a>
 
 <a href="https://github.com/Someshx98?tab=repositories">
-  <img
-    src="https://img.shields.io/github/stars/Someshx98?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FF69B4&labelColor=161B22"
-    alt="GitHub Stars"
-/>
+  <img src="https://img.shields.io/github/stars/Someshx98?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&color=FF69B4&labelColor=161B22" alt="GitHub Stars" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Someshx98)
-
+<a href="https://github.com/Someshx98">
+  <img src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-F8BBD0?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Visit GitHub Profile" />
+</a>
 
 <br/><br/>
 
-<img
-  src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-EF93C4?style=for-the-badge&labelColor=161B22"
-  alt="Building and Learning"
-/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-EF93C4?style=for-the-badge&labelColor=161B22" alt="Building and Learning" />
 
 </div>
 
